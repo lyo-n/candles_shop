@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/candles_shop/static/css/main.4204f5e4.css",
+    "main.css": "/candles_shop/static/css/main.2208735c.css",
     "main.js": "/candles_shop/static/js/main.dc35dbba.js",
     "static/js/787.c073a045.chunk.js": "/candles_shop/static/js/787.c073a045.chunk.js",
     "static/media/DSC09628.jpg": "/candles_shop/static/media/DSC09628.ce385b076486d6d83632.jpg",
@@ -12,12 +12,12 @@
     "static/media/Logo_2.png": "/candles_shop/static/media/Logo_2.bc21b149c763a2fbd11c.png",
     "static/media/logo.svg": "/candles_shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/candles_shop/index.html",
-    "main.4204f5e4.css.map": "/candles_shop/static/css/main.4204f5e4.css.map",
+    "main.2208735c.css.map": "/candles_shop/static/css/main.2208735c.css.map",
     "main.dc35dbba.js.map": "/candles_shop/static/js/main.dc35dbba.js.map",
     "787.c073a045.chunk.js.map": "/candles_shop/static/js/787.c073a045.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4204f5e4.css",
+    "static/css/main.2208735c.css",
     "static/js/main.dc35dbba.js"
   ]
 }
